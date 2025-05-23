@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1748039615 source:e:\education\lab5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"foo.h"
+
+1748039814 source:e:\education\lab5\foo.c
+	"foo.h"
+
+1748039814 e:\education\lab5\foo.h
+	<stdio.h>
+	<stdlib.h>
+
